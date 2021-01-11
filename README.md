@@ -9,3 +9,4 @@
 - **[Desafio: Database Upload](https://github.com/lucasnjsilva/desafio-database-upload)**
 
 - **[Primeiro Projeto React](https://github.com/lucasnjsilva/primeiro-projeto-react-gostack)**
+- **[Desafio: Fundamentos React](https://github.com/lucasnjsilva/fundamentos-reactjs)**
